@@ -8710,3 +8710,1036 @@ DevTools listening on ws://127.0.0.1:45867/devtools/browser/4d456104-4eaa-4e5c-8
 console.error: ({})
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.studi.fr."
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.studi.fr."
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+amdgpu: The CS has been cancelled because the context is lost.
+amdgpu: The CS has been cancelled because the context is lost.
+amdgpu: The CS has been cancelled because the context is lost.
+[GFX1]: Device reset due to WR context
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: The CS has been rejected, see dmesg for more information (-16).
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+1679950236224	geckodriver	INFO	Listening on 127.0.0.1:60117
+1679950236723	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "43469" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilent7r81"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1679950237189	Marionette	INFO	Marionette enabled
+1679950237192	Marionette	INFO	Listening on port 43551
+Read port: 43551
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:43469
+1679950237321	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilent7r81/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:43469/devtools/browser/091bf7d0-3e68-4560-bf2f-666ddf36ea18
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.studi.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.studi.fr."
+1679950313843	geckodriver	INFO	Listening on 127.0.0.1:50519
+1679950313848	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "38541" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilehXxb3m"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1679950314327	Marionette	INFO	Marionette enabled
+1679950314329	Marionette	INFO	Listening on port 35627
+Read port: 35627
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:38541
+1679950314472	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehXxb3m/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:38541/devtools/browser/aeaee4a4-4668-466a-9bc4-839b7c66ce10
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.studi.fr."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.studi.fr."
+1679950422367	Marionette	INFO	Stopped listening on port 43551
+1679950423580	Marionette	INFO	Stopped listening on port 35627
+1679950429816	geckodriver	INFO	Listening on 127.0.0.1:53229
+1679950429819	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "45363" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilecQTKMh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1679950430287	Marionette	INFO	Marionette enabled
+1679950430289	Marionette	INFO	Listening on port 35833
+Read port: 35833
+ATTENTION: default value of option mesa_glthread overridden by environment.
+WebDriver BiDi listening on ws://127.0.0.1:45363
+1679950430426	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilecQTKMh/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:45363/devtools/browser/ead8bf86-9094-409e-adfd-95018d139219
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.studi.fr."
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://app.studi.fr."
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.

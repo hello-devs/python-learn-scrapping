@@ -57,6 +57,14 @@ def get_first_parcours_items():
     return planning_items_to_return
 
 
+def get_courses():
+    courses_presence = ec.presence_of_element_located((By.CLASS_NAME, "ressource-title"))
+    sc.check_presence_of(driver, timeout, courses_presence)
+
+    return driver.find_elements(By.CLASS_NAME, "ressource-title")
+
+
+#
 planning_items = get_first_parcours_items()
 
 number_of_course = len(planning_items)
@@ -75,9 +83,12 @@ for i in range(number_of_course):
 
     item = planning_items[i]
     print(item.text)
-    driver.execute_script(f'arguments[{i}].click();', item)
+    driver.execute_script(f'arguments[0].click();', item)
 
-    # TODO loop throw course
+    courses = get_courses()
+
+    for course in courses:
+        print(course.text)
 
     driver.back()
     planning_items = get_first_parcours_items()
