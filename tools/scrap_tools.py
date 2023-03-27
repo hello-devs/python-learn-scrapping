@@ -16,3 +16,5 @@ def check_presence_of(driver_to_use, time_out: float, element_to_locate, exit_on
         print("Timed out waiting for page to load")
         if exit_on_fail:
             exit(1)
+    except Exception as e:
+        print(e)
