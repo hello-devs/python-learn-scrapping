@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="fr">
+ <head>
+  <meta http-equiv="x-ua-compatible" content="IE=EDGE">
+  <title>Contexte [Data visualisation avanc&eacute;e avec Streamlit]</title>
+  <meta charset="UTF-8">
+  <meta name="generator" content="SCENARI 4.2.201 / opaleStudi 3.7.046">
+  <meta name="revision" content="2020-06-04 14:46">
+  <link rel="start" href="module_9-data-visu-av-streamlit.html" title="La data visualisation avanc&eacute;e avec Streamlit">
+  <meta name="author" content>
+  <meta name="keywords" content>
+  <meta name="date" content>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" type="text/css" href="../lib-md/w_scCodeMgr/scCodeMgr.css">
+  <link rel="stylesheet" type="text/css" href="../lib-md/w_scImgMgr/scImgMgr.css">
+  <script type="text/JavaScript">
+/*0*/ var scServices = {id:"kb0w76u6"};
+/*1*/ window.scLoadParams = {destUri:"/co/module_9-data-visu-av-streamlit_1.html", pathToRoot:"../"};
+</script>
+  <script type="text/JavaScript" src="../lib-sc/scCoLib.js"></script>
+  <script type="text/JavaScript" src="../lib-sc/scPaLib.js"></script>
+  <script type="text/JavaScript" src="../lib-sc/scSiLib.js"></script>
+  <script type="text/JavaScript" src="../lib-sc/scTiLib.js"></script>
+  <script type="text/JavaScript" src="../lib-sc/scTooltipMgr.js"></script>
+  <script type="text/JavaScript" src="../lib-sc/scMapMgr.js"></script>
+  <script type="text/JavaScript" src="../lib-md/s_assmnt.js"></script>
+  <script type="text/JavaScript" src="../lib-sc/scDragMgr.js"></script>
+  <script type="text/JavaScript" src="../lib-sc/scDynUiMgr.js"></script>
+  <script type="text/JavaScript" src="../lib-sc/scAssmntMgr.js"></script>
+  <script type="text/JavaScript" src="../lib-md/w_studiMgr/jquery-1.11.3.min.js"></script>
+  <script type="text/JavaScript" src="../lib-md/s_scSearch/scSearch.js"></script>
+  <script type="text/JavaScript" src="../lib-md/w_tplMgr/tplMgr.js"></script>
+  <script type="text/JavaScript" src="../lib-md/w_mathjax/mathjaxMgr.js"></script>
+  <script type="text/JavaScript" src="../lib-md/w_scCodeMgr/scCodeMgr.js"></script>
+  <script type="text/JavaScript" src="../lib-md/w_outMgr/outMgr.js"></script>
+  <script type="text/JavaScript" src="../lib-md/w_scMediaMgr/scMediaMgr.js"></script>
+  <script type="text/JavaScript" src="../lib-md/w_scImgMgr/scImgMgr.js"></script>
+  <script type="text/JavaScript" src="../lib-md/w_searchMgr/searchMgr.js"></script>
+  <script type="text/JavaScript" src="../lib-md/w_jwplayerMgr/jwplayerMgr.js"></script>
+  <script type="text/JavaScript" src="../lib-md/w_studiMgr/studiMgr.js"></script>
+  <script type="text/JavaScript">
+
+/*0*/ try{if(window.opener && window.opener.scServices && window.opener.scServices.id == scServices.id) scServices = window.opener.scServices; else if(window.parent && window.parent.scServices && window.parent.scServices.id == scServices.id) scServices = window.parent.scServices;}catch(e){}
+scCodeMgr.registerCode("des:div.code");
+
+scImgMgr.registerAdaptedImage("ide:content/des:img");
+
+scImgMgr.registerGallery("des:div.galFra");
+
+scImgMgr.registerSvg("des:svg");
+scImgMgr.registerZoom("des:a.svgZoom",{type:"svg",svgMax:1,toolbar:1,titlePath:"par:/nsi:/des:span.capTi"});
+
+scImgMgr.registerZoom("des:a.imgZoom",{toolbar:1,mag:1,titlePath:"par:/nsi:/des:span.capTi"});
+
+</script>
+  <link type="text/css" rel="stylesheet" href="../skin/css/main.css" media="all">
+  <link type="text/css" rel="stylesheet" href="../skin/css/skin.css" media="all">
+  <link type="text/css" rel="stylesheet" href="../skin/css/print.css" media="print">
+  <script src="https://cdn.jwplayer.com/libraries/DyAyCxUH.js"></script>
+  <script>jwplayer.key="U+hpi4mMOTCDfyWL3FjgwMi/QSkehLvVr4cukDDoslCcpV31";</script>
+  <script type="text/JavaScript">
+outMgr.declareOutline("module_9-data-visu-av-streamlit.txt");
+	</script> </head>
+ <body class="default module expUc">
+  <div id="root"><header id="header" role="banner"><a class="btnZen" role="button" href="#" target="_self" title="Restaurer l'interface par d&eacute;faut." onclick="tplMgr.sToggleZen();return false;"><span>Restaurer</span></a><h1><span>La data visualisation avanc&eacute;e avec Streamlit</span></h1><nav role="navigation"><ul id="accessibility"><li class="waiContent"><a href="#content"><span>contenu</span></a></li><li class="waiMenu"><a href="#menu"><span>menu</span></a></li><li class="waiNav"><a href="#navigation"><span>navigation</span></a></li><li class="waiTools"><a href="#tools"><span>outils</span></a></li></ul></nav></header><main id="main" role="main"><div id="document"><div id="content" tabindex="-1"><div class="scroller"><hr class="hidden"><section class="hBk article expUc"><h2 class="hBk_ti"><span>Contexte</span></h2><div class="hBk_co "><div class="context pBk"><h3 class="context_ti pBk_ti"><span><i class="type"><span>Contexte</span></i><span class="hidden"> : </span><span class="title"></span></span></h3><div class="context_co pBk_co"><div class="rBk "><p>Maintenant que nous savons manipuler des donn&eacute;es et afficher plusieurs sortes de graphiques, voyons comment inclure ces donn&eacute;es dans une application web avec l'outil Streamlit.</p></div><div class="rBk "><p><strong class="txt_emp_is ">Pr&eacute;-requis</strong></p></div><div class="rBk "><ul class="txt_il "><li class="txt_ili "><p>Connaissance de la syntaxe Python</p></li><li class="txt_ili "><p>Connaissance de la programmation orient&eacute;e objet en Python</p></li><li class="txt_ili "><p>Math&eacute;matiques niveau lyc&eacute;e</p></li><li class="txt_ili "><p>Compr&eacute;hension des librairies Numpy, Pandas, Matplotlib et Seaborn</p></li><li class="txt_ili "><p>De la bonne humeur et de la motivation&nbsp;!</p></li></ul></div></div></div></div></section></div></div></div><div id="toolbox"><nav id="menu" class="pageSelector hidden" role="navigation" tabindex="-1" aria-label="menu principal"><hr class="hidden"><ul class="mnu static" data-totalPages="6"><li class="sel_yes anc_no type_l  dpt_0 expUc"><div class="lbl type_l" id="module_9-data-visu-av-streamlit_1.html"><span class="item"><span>Contexte</span></span></div></li><li class="sel_no anc_no type_l  dpt_0 expUc"><div class="lbl type_l" id="presentation-outil-streamlit.html"><a href="presentation-outil-streamlit.html" target="_self" class="item"><span>Pr&eacute;sentation de l'outil Streamlit</span></a></div></li><li class="sel_no anc_no type_l  dpt_0 expUc"><div class="lbl type_l" id="architecture-application.html"><a href="architecture-application.html" target="_self" class="item"><span>Architecture d'une application</span></a></div></li><li class="sel_no anc_no type_l  dpt_0 expUc"><div class="lbl type_l" id="boutons-evenements.html"><a href="boutons-evenements.html" target="_self" class="item"><span>Boutons et &eacute;v&eacute;nements</span></a></div></li><li class="sel_no anc_no type_l  dpt_0 expUc"><div class="lbl type_l" id="inclure-pandas-seaborn-graphiques.html"><a href="inclure-pandas-seaborn-graphiques.html" target="_self" class="item"><span>Inclure Pandas et Seaborn dans des graphiques interactifs</span></a></div></li><li class="sel_no anc_no type_l  dpt_0 coQuiz"><div class="lbl type_l" id="data-vis-streamlit.html"><a href="data-vis-streamlit.html" target="_self" class="item"><span>Liste d'exercices</span></a></div></li></ul></nav><div id="tools" tabindex="-1"><hr class="hidden"><nav class="headingSelector" role="navigation"><ul class="mnu"><li class="anc_no home" data-position="uncle"><div class="lbl"><a href="module_9-data-visu-av-streamlit.html" target="_self" class="item" type="index" title="Page d'accueil du module"><span>Accueil</span></a></div></li><li class="anc_yes module" data-position="parent"><div class="lbl"><span class="item"><span>Module</span></span></div></li></ul></nav></div><div id="navigation" tabindex="-1"><hr class="hidden"><a class="showMenu" role="button" href="#" target="_self" title="Menu" onclick="studiMgr.showHideMenu();return false;"><span>Menu</span></a><div id="fontSize"><a class="increase_font" href="#" title="Augmenter taille police" onclick="studiMgr.increaseFont();return false;"></a><a class="decrease_font" href="#" title="Diminuer taille police" onclick="studiMgr.decreaseFont();return false;"></a></div><nav class="pageTurner" role="navigation"><a rel="prev" href="module_9-data-visu-av-streamlit.html" target="_self" class="btnNav prev" title="Pr&eacute;c&eacute;dent (Accueil)"><span>Pr&eacute;c&eacute;dent</span></a><a rel="next" href="presentation-outil-streamlit.html" target="_self" class="btnNav next" title="Suivant (Pr&eacute;sentation de l'outil Streamlit)"><span>Suivant</span></a></nav></div></div></main><footer id="footer" role="contentinfo" tabindex="-1"><hr class="hidden"><a id="linkSp" target="_blank" href="https://www.scenari.org" title="R&eacute;alis&eacute; avec Scenari (nouvelle fen&ecirc;tre)"><span><img alt="R&eacute;alis&eacute; avec Scenari (nouvelle fen&ecirc;tre)" src="../skin/img/tpl/scBtn.png"></span></a></footer></div>
+  <script type="text/JavaScript" src="../skin/js/skin.js"></script>
+  <script type="text/javascript">studiMgr.init();tplMgr.init();outMgr.init();scCodeMgr.init();scImgMgr.init();scMediaMgr.init("ide:content/chi:div/chi:section/des:.mediaPlayer",{processYoutubeUrls :true});</script>
+ </body>
+</html>

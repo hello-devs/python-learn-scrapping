@@ -1,3 +1,4 @@
+import wget
 from selenium.webdriver import Firefox
 # from selenium.webdriver import Chrome
 from selenium.webdriver.common.by import By
@@ -9,7 +10,7 @@ from tools import scrap_tools as sc
 
 #
 opts = Options()
-# opts.add_argument("--headless")
+opts.add_argument("--headless")
 base_url = 'https://app.studi.fr/v3/login'
 planning_url = 'https://app.studi.fr/#/dashboard/planning'
 parcours_list_selector = 'div.planning-list-title'
@@ -76,21 +77,53 @@ sc.check_presence_of(driver, timeout, dismissBtn)
 btn_cookie = driver.find_element(By.CSS_SELECTOR, "a.cc-dismiss")
 btn_cookie.click()
 
+# for i in range(33, 48):
 for i in range(number_of_course):
     # last module is empty
     if i == 47:
         break
 
     item = planning_items[i]
-    print(item.text)
+    print(str(i) + " __ " + item.text)
     driver.execute_script(f'arguments[0].click();', item)
 
     courses = get_courses()
 
-    for course in courses:
-        print(course.text)
+    for j in range(len(courses)):
+        print(courses[j].text)
+        courses[j].click()
+        #
+        course_iframe = ec.presence_of_element_located((By.ID, 'courseframecontent'))
+        sc.check_presence_of(driver, timeout, course_iframe)
+        course_link = driver.find_element(By.ID, 'courseframecontent').get_attribute('src')
+        # print(course_link)
+        driver.get(course_link)
+        #
+        course_content_iframe = ec.presence_of_element_located((By.ID, 'course-iframe'))
+        sc.check_presence_of(driver, timeout, course_content_iframe)
+        course_content_link = driver.find_element(By.ID, 'course-iframe').get_attribute('src')
+        # print(course_content_link)
+        driver.get(course_content_link)
+        #
+        start_btn_presence = ec.presence_of_element_located((By.CSS_SELECTOR, "a.btnNav.start"))
+        sc.check_presence_of(driver, timeout, start_btn_presence)
+        driver.find_element(By.CSS_SELECTOR, "a.btnNav.start").click()
+        #
+        pdf_btn_presence = ec.presence_of_element_located((By.CSS_SELECTOR, 'li.print a'))
+        sc.check_presence_of(driver, timeout, pdf_btn_presence)
+        pdf_btn = driver.find_element(By.CSS_SELECTOR, 'li.print a')
+        pdf_url = pdf_btn.get_attribute("href")
+
+        wget.download(pdf_url, "courses/")
+
+        driver.back()
+        driver.back()
+        driver.back()
+        driver.back()
+        courses = get_courses()
 
     driver.back()
     planning_items = get_first_parcours_items()
 
-# driver.close()
+
+driver.close()
