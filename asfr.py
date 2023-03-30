@@ -77,20 +77,25 @@ sc.check_presence_of(driver, timeout, dismissBtn)
 btn_cookie = driver.find_element(By.CSS_SELECTOR, "a.cc-dismiss")
 btn_cookie.click()
 
-# for i in range(33, 48):
-for i in range(number_of_course):
+file = open("liste-cours.txt", "a")
+
+
+for i in range(46, 48):
+# for i in range(number_of_course):
     # last module is empty
     if i == 47:
         break
 
     item = planning_items[i]
     print(str(i) + " __ " + item.text)
+    file.write(str(i) + " __ " + item.text)
     driver.execute_script(f'arguments[0].click();', item)
 
     courses = get_courses()
 
     for j in range(len(courses)):
         print(courses[j].text)
+        file.write(courses[j].text)
         courses[j].click()
         #
         course_iframe = ec.presence_of_element_located((By.ID, 'courseframecontent'))
@@ -114,7 +119,10 @@ for i in range(number_of_course):
         pdf_btn = driver.find_element(By.CSS_SELECTOR, 'li.print a')
         pdf_url = pdf_btn.get_attribute("href")
 
-        wget.download(pdf_url, "courses/")
+        # wget.download(pdf_url, "courses/")
+
+        print(pdf_url)
+        file.write(pdf_url)
 
         driver.back()
         driver.back()
@@ -127,3 +135,4 @@ for i in range(number_of_course):
 
 
 driver.close()
+file.close()
