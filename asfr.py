@@ -1,4 +1,5 @@
 import wget
+from itertools import chain
 from selenium.webdriver import Firefox
 # from selenium.webdriver import Chrome
 from selenium.webdriver.common.by import By
@@ -77,25 +78,36 @@ sc.check_presence_of(driver, timeout, dismissBtn)
 btn_cookie = driver.find_element(By.CSS_SELECTOR, "a.cc-dismiss")
 btn_cookie.click()
 
-file = open("liste-cours.txt", "a")
+file = open(file="liste-cours.txt", mode="a", encoding="utf-8")
 
-
-for i in range(46, 48):
-# for i in range(number_of_course):
+# for i in chain(range(0, 22), range(23, 47)):
+for i in range(34, 47):
+    # for i in range(number_of_course):
     # last module is empty
     if i == 47:
         break
 
     item = planning_items[i]
     print(str(i) + " __ " + item.text)
-    file.write(str(i) + " __ " + item.text)
+    file.write(str(i) + " __ " + item.text + "\n")
     driver.execute_script(f'arguments[0].click();', item)
 
     courses = get_courses()
 
     for j in range(len(courses)):
-        print(courses[j].text)
-        file.write(courses[j].text)
+        if i == 29 and j == 2:
+            # le cours est composé de video
+            continue
+        if i == 34 and not j == 0:
+            # passage obligatoire minimum cookie
+            continue
+        if i in range(35, 46):
+            continue
+        if i == 46 and j in range(0, 9):
+            continue
+
+        print(str(j) + ": " + courses[j].text)
+        file.write(courses[j].text + "\n")
         courses[j].click()
         #
         course_iframe = ec.presence_of_element_located((By.ID, 'courseframecontent'))
@@ -122,7 +134,7 @@ for i in range(46, 48):
         # wget.download(pdf_url, "courses/")
 
         print(pdf_url)
-        file.write(pdf_url)
+        file.write(pdf_url + "\n")
 
         driver.back()
         driver.back()
@@ -132,7 +144,6 @@ for i in range(46, 48):
 
     driver.back()
     planning_items = get_first_parcours_items()
-
 
 driver.close()
 file.close()
